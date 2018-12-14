@@ -1,3 +1,10 @@
+
+/**
+ * @license
+ * Copyright FGA Test. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license.
+ */
 /**
  * This file includes polyfills needed by Angular and is loaded before the app.
  * You can add your own extra polyfills to this file.

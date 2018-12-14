@@ -1,3 +1,10 @@
+
+/**
+ * @license
+ * Copyright FGA Test. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license.
+ */
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 

@@ -1,3 +1,10 @@
+
+/**
+ * @license
+ * Copyright FGA Test. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license.
+ */
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 describe('AppComponent', () => {
